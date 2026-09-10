@@ -1,0 +1,5 @@
+{
+    "resume_id": "resume_3_rohan_mehta",
+    "filename": "resume_3_rohan_mehta.pdf",
+    "text": "Rohan Mehta\nData Engineer\nEmail: rohan.mehta@example.com | Hyderabad, India\nSummary\nData Engineer with 6 years of experience designing scalable data pipelines, cloud data platforms, ETL\nworkflows, and analytics systems.\nSkills\nPython, SQL, GCP, BigQuery, Dataflow, Apache Beam, Cloud Storage, Dataproc, Apache Spark, Airflow,\ndbt, Kafka, Docker, Terraform, Git.\nExperience\nLead Data Engineer — DataBridge Technologies (2021–Present)\nDesigned batch and streaming pipelines using Dataflow, Apache Beam, and Kafka. Built BigQuery datasets,\ntables, and views. Implemented data quality checks and pipeline monitoring.\nEducation\nB.E. in Information Technology — Osmania University, 2020\n"
+}
